@@ -6,13 +6,13 @@
 * [GME](#gme)
 
 # Videogames I play
-Apex Legends (https://www.ea.com/games/apex-legends)
+[Apex Legends](https://www.ea.com/games/apex-legends)
 > Apex Legends is a free-to-play battle royale-hero shooter game developed by Respawn Entertainment and published by Electronic Arts.
 
-Genshin Impact (https://genshin.mihoyo.com/en/)
+[Genshin Impact](https://genshin.mihoyo.com/en/)
 > Genshin Impact is an action role-playing game developed and published by Chinese video game development and animation studio miHoYo.
 
-Ark: Survival Evolved (https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
+[Ark: Survival Evolved](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
 > Ark: Survival Evolved is a 2017 action-adventure survival video game developed by Studio Wildcard, in collaboration with Instinct Games, Efecto Studios, and Virtual Basement.
 
 # Pets
