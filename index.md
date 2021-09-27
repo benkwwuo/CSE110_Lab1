@@ -1,9 +1,22 @@
 ## Benjamin Kuo
-
+* [Introduction](#introduction)
+* [Interests](#potential-interests-in-the-cs-field)
+* [PC](#my-pc)
 * [Videogames](#videogames-i-play)
 * [Pets](#pets)
-* [My PC](#my-pc)
-* [GME](#gme)
+* [Never do this](#never-do-this)
+
+# Introduction 
+A transfer student from Mount San Antonio Community College to UCSD in the year 2020 as a B.A
+student in Computer Science with no particular interest as of yet. I'm still exploring the vast
+field that is CS as I believe the skills I've learned and are currently learning can be applied
+in most if not all fields. But so far my interests lie in A.I, granted I have little experience, 
+this seems the most interesting to me. 
+
+# Potential interests in the CS field
+* Work on projects that improve the living standards for people everywhere
+* Help make the world more sustainable
+* Blockchain
 
 # Videogames I play
 [Apex Legends](https://www.ea.com/games/apex-legends)
@@ -25,17 +38,15 @@
 
 # My PC
 - [x] Ryzen 5 3600 w/ stock cooler
-- [ ] Deepcool 360mm AIO 
+- [ ] Deepcool 360mm AIO
 - [x] RTX 2060 Super Founders Edition
 - [x] MSI B450 Carbon Max Wifi
 - [x] 16GB RGB Trident 3600mhz (running @ 3200mhz)
 - [x] Corsair 80+ Gold 650W Fully Modular
-- [x] Custom white cable sleeved 
+- [x] Custom white cable sleeved
 - [x] Lian Li PC-O11-Dynamic
 
-# GME 
-The stock market is a fraud and those behind the massive short selling are the same entities that caused the housing crisis back in 2008. 
-In addition, we are currently underway to reliving 2008 but at a far greater magnitude. The DTCC, SEC, Fed, and other government and 
-non-government entities are complicit and have allowed countless illegal activites to persist in not only US markets but in foreign ones
-as well. This is not a conspiracy theory as extensive research has dated back since the creation of the stock market. For more information, 
-go to [GMEdd.com](https://gmedd.com) and [Superstonk](https://www.reddit.com/r/Superstonk/).
+# Never do this
+Never ever ever ever run this on linux ```rm -rf /```. 
+This command will recursively delete everything from the root directory which contains
+all the folders of the drive. 
