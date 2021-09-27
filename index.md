@@ -1,6 +1,7 @@
 ## Benjamin Kuo
 * [Introduction](#introduction)
 * [Interests](#potential-interests-in-the-cs-field)
+* [Languages](#languages)
 * [PC](#my-pc)
 * [Videogames](#videogames-i-play)
 * [Pets](#pets)
@@ -17,6 +18,13 @@ this seems the most interesting to me.
 * Work on projects that improve the living standards for people everywhere
 * Help make the world more sustainable
 * Blockchain
+
+# Languages
+* Python
+* C++
+* C
+* Java 
+* Bash Scripting
 
 # Videogames I play
 [Apex Legends](https://www.ea.com/games/apex-legends)
